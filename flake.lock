@@ -29,7 +29,10 @@
           "hwinfo",
           "nixpkgs"
         ],
-        "systems": "systems"
+        "systems": [
+          "hwinfo",
+          "systems"
+        ]
       },
       "locked": {
         "lastModified": 1724053269,
@@ -113,14 +116,15 @@
         "blueprint": "blueprint_2",
         "nixpkgs": [
           "nixpkgs"
-        ]
+        ],
+        "systems": "systems"
       },
       "locked": {
-        "lastModified": 1724271981,
-        "narHash": "sha256-JqGUgN2ronkVrekLJ3t2Oa3Zt/W1JhU5oA/GD5f1nhI=",
+        "lastModified": 1724675904,
+        "narHash": "sha256-onJQPVp12hJig56KoXTvps7DzO/7/VBbD5auzxMLNTY=",
         "owner": "numtide",
         "repo": "hwinfo",
-        "rev": "db1f44bde5b633cc68a46317773d33a80f7f28e7",
+        "rev": "6944732764aecd701f807cd746ff605d2b749549",
         "type": "github"
       },
       "original": {
